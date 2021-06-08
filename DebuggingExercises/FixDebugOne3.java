@@ -1,4 +1,4 @@
-public class DebugOne3Fix
+public class FixDebugOne3
 {
    public static void main(String[] args)
    {
